@@ -4,7 +4,7 @@
 Serverless allows you to build and run applications and services without thinking about servers. It eliminates infrastructure management tasks such as server or cluster provisioning, patching, operating system maintenance, and capacity provisioning. You can build them for nearly any type of application or backend service, and everything required to run and scale your application with high availability is handled for you.
 
 
-[serverless]
+![serverless](https://github.com/drveillard/serverless-architecture/blob/main/img/Cloud-Computing.png)
 
  - Serverless applications are event-driven and loosely coupled via technology-agnostic APIs or messaging. 
  - Event-driven code is executed in response to an event, such as a change in state or an endpoint request. 
@@ -36,26 +36,26 @@ Serverless allows you to build and run applications and services without thinkin
 
 
 
-### Use cases
+### Intro to AWS Serverless Architecture
 [Serverless architecture](https://dev.to/dev0928/intro-to-web-app-using-aws-serverless-architecture-f91) comprises a group of technologies working together as a single unit to deliver a solution. In this write-up, let’s review the involved technologies along with their high level purpose to build a web application.
 
 
-Backend
+### Backend
 Backend is a stand-alone service comprising three main components - Data store, Lambda functions used as a compute service and API Gateway acting as a main backend interface.
 
-Data Store / Database
+#### Data Store / Database
 Aurora Serverless (PostgreSQL) is one of the options. There are few other serverless database options available to choose from. Data store choice purely depends on the type of data stored within the application.
 
-Lambda Functions
+#### Lambda Functions
 Lambda functions with Python could be used on the backend. AWS Lambda supports many other options such as Node.js, Java, .NET Core, PHP.
 
-API Gateway
+#### API Gateway
 API Gateway serves as a gatekeeper to the backend service. API endpoints can be secured and served through the API Gateway. API Gateway leverages lambda functions to perform necessary data processing to serve requests made to the API endpoint. Frontend applications or any other service requiring data can call these API endpoints with required security token to obtain necessary data.
 
-Frontend
+### Frontend
 Frontend framework such as Angular, Vue, React or any other framework could be used to build the frontend website. During deployment, front-end code is built and deployed to AWS CloudFront CDN and served to the end users’ browsers upon request.
 
-Security
+### Security
 AWS Cognito is an Amazon authentication and authorization service. This service also has support for SAML / OAuth2 / Open ID authentication through major Identify providers such as Facebook, Google, Okta.
 
 Supporting Services
