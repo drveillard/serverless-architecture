@@ -22,7 +22,7 @@ Serverless allows you to build and run applications and services without thinkin
 
 
 ## Table of Contents
- - [Intro AWS Serverless Architecture](##ntro-to-aws-serverless-architecture)
+ - [Intro AWS Serverless Architecture](#ntro-to-aws-serverless-architecture)
  - [100 % Serveless Architecture on AWS](#)
 
 
@@ -31,7 +31,7 @@ Serverless allows you to build and run applications and services without thinkin
 ## AWS Serverless Architecture
 
 
-### Intro to AWS Serverless Architecture
+## Intro to AWS Serverless Architecture
 [Serverless architecture](https://dev.to/dev0928/intro-to-web-app-using-aws-serverless-architecture-f91) comprises a group of technologies working together as a single unit to deliver a solution. In this write-up, let’s review the involved technologies along with their high level purpose to build a web application.
 
 
