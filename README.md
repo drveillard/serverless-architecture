@@ -8,5 +8,15 @@ Serverless allows you to build and run applications and services without thinkin
  - Event-driven architectures decouple code from state. Integration between loosely couple components is usually done asynchronously, with messaging.
 
 
+## Why use serverless?
+- **No server management:** - There is no need to provision or maintain any servers. There is no software or runtime to install, maintain, or administer.
+
+- **Flexible scaling:** - Your application can be scaled automatically or by adjusting its capacity through toggling the units of consumption (e.g. throughput, memory) rather than units of individual servers.
+
+- **Pay for value:** - Pay for consistent throughput or execution duration rather than by server unit.
+
+- **Automated high availability:** - Serverless provides built-in availability and fault tolerance. You don't need to architect for these capabilities since the services running the application provide them by default.
+
+
 ## Table of Contents
  - AWS Serverless Architecture
