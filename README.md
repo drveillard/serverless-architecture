@@ -29,16 +29,12 @@ Serverless allows you to build and run applications and services without thinkin
 
 ## AWS Serverless Architecture
 
-### AWS Serverless Architectures
-
-
-
-
-
 
 ### Intro to AWS Serverless Architecture
 [Serverless architecture](https://dev.to/dev0928/intro-to-web-app-using-aws-serverless-architecture-f91) comprises a group of technologies working together as a single unit to deliver a solution. In this write-up, let’s review the involved technologies along with their high level purpose to build a web application.
 
+
+![architecture](https://github.com/drveillard/serverless-architecture/blob/main/img/AWS-serverless.png)
 
 ### Backend
 Backend is a stand-alone service comprising three main components - Data store, Lambda functions used as a compute service and API Gateway acting as a main backend interface.
