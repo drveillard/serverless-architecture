@@ -2,7 +2,7 @@
 
 > Welcome To The Serverless Architectures ®. A collection of awesome software, libraries, documents, books, resources and cool stuff about Serverless. Thanks to our daily readers and contributors. The goal is to build a categorized community-driven collection of very well-known resources. Sharing, suggestions and contributions are always welcome!
 
-## What is Serverless Computing?
+## `What is Serverless Computing?`
 Serverless allows you to build and run applications and services without thinking about servers. It eliminates infrastructure management tasks such as server or cluster provisioning, patching, operating system maintenance, and capacity provisioning. You can build them for nearly any type of application or backend service, and everything required to run and scale your application with high availability is handled for you.
 
 
