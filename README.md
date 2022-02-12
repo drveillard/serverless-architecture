@@ -65,14 +65,14 @@ Like many trends in software, there’s no one clear view of what Serverless is.
 - [Contributing](#contributing)
 - [License](#license)
 
-## What is "serverless" computing?
+## `What is "serverless" computing?`
 
 > The phrase “serverless” doesn’t mean servers are no longer involved. It simply means that developers no longer have to think "that much" about them. Computing resources get used as services without having to manage around physical capacities or limits.
 > Let's take for example AWS Lambda. "Lambda allows you to NOT think about servers. Which means you no longer have to deal with over/under capacity, deployments, scaling and fault tolerance, OS or language updates, metrics, and logging."
 
 [Quora: What is Serverless Computing?](https://www.quora.com/What-is-serverless-computing)
 
-## All in one solutions
+## `All in one solutions`
 
 * [AppDrag](https://appdrag.com) - Cloud Backend with SQL database and serverless API builder, Cloud CMS with domain management and email marketing tools
 * [Firebase](https://www.firebase.com) - Realtime database, authentication, hosting. A powerful platform for your mobile or web application.
@@ -91,7 +91,7 @@ Like many trends in software, there’s no one clear view of what Serverless is.
 * [ops](https://ops.city) - A free open source tool that allows anyone to build, run and deploy normal linux applications as unikernels.
 * [Elastictable](https://www.elastictable.com) - Low-code Backend as a Service solution, powered by Amazon Web Services, on a mission to increase the success rate of online businesses.
 
-## Hosting and code execution in the cloud
+## `Hosting and code execution in the cloud`
 
 * [FaaStRuby](https://faastruby.io) - Serverless Software Development Platform for Ruby and Crystal developers.
 * [Amazon Lambda](https://aws.amazon.com/lambda) - Run code without thinking about servers. Pay for only the compute time you consume.
@@ -124,11 +124,11 @@ Like many trends in software, there’s no one clear view of what Serverless is.
 * [Cloudflare Workers](https://www.cloudflareworkers.com) - Workers allow you to deploy Serverless apps to 165+ data centers across the globe simultaneously, along with the ability to agument or alter exsisting websites and APIs on the fly.
 * [fn](https://fnproject.io) - The container native, cloud agnostic serverless platform.
 
-## Isomorphic Engines
+## `Isomorphic Engines`
 
 * [lychee.js](https://github.com/Artificial-Engineering/lycheejs) - Isomorphic adapters allow peer-to-peer event-graphed WebSockets and HTTP1.1, SPDY and HTTP2.0 sockets for node, node-sdl, html, html-nwjs and html-webview (both native and embedded).
 
-## Frameworks
+## `Frameworks`
 
 * [Aegis](https://github.com/tmaiaroto/aegis) - A Golang serverless application development framework for AWS with deploy tool.
 * [Apache OpenWhisk](https://openwhisk.apache.org) - Open source and enterprise-ready serverless platform that executes functions in any language (including Docker Containers) in response to events, powering IBM Cloud Functions, Adobe I/O Runtime and a number of on-prem deployments worldwide.
