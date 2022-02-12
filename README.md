@@ -30,7 +30,7 @@ Like many trends in software, there’s no one clear view of what Serverless is.
 - **Automated high availability:** - Serverless provides built-in availability and fault tolerance. You don't need to architect for these capabilities since the services running the application provide them by default.
 
 
-## Table of contents
+## `Table of contents`
 
 - [What is "serverless" computing?](#what-is-serverless-computing)
 - [All in one solutions](#all-in-one-solutions)
