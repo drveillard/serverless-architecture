@@ -478,17 +478,17 @@ Like many trends in software, there’s no one clear view of what Serverless is.
 * [Using AWS Lambda to Build Control Systems for Your AWS Infrastructure](https://www.youtube.com/watch?v=vkWGZ3uY0p0&index=2&list=PLhr1KZpdzukcLUKD2ej8AKYR-nryjGGnF)
 * [What’s New with AWS Lambda](https://www.youtube.com/watch?v=CwxWhyGteNc)
 
-## Videos from conferences
+## `Videos from conferences`
 
 * [Serverlessconf](https://www.youtube.com/channel/UCqlcVgk8SkUmve4Kw4xSlgw)
 * [ServerlessDays](https://www.youtube.com/channel/UCYzAnR_SebAmLRkKIbK_YoQ)
 * [GOTO Conferences](https://www.youtube.com/playlist?list=PLEx5khR4g7PJNproQQ4SZ96Qeu-kr-Xbn)
 
-## Contributing
+## `Contributing`
 
 You want to contribute to this project? [Please follow these recommendations](CONTRIBUTING.md).
 
-## License
+## `License`
 
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
