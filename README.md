@@ -20,7 +20,7 @@ Like many trends in software, there’s no one clear view of what Serverless is.
 - Serverless can also mean applications where server-side logic is still written by the application developer, but, unlike traditional architectures, it’s run in stateless compute containers that are event-triggered, ephemeral (may only last for one invocation), and fully managed by a third party. One way to think of this is **“Functions as a Service” or "FaaS".** (Note: The original source for this name—a tweet by @marak—is no longer publicly available.) AWS Lambda is one of the most popular implementations of a Functions-as-a-Service platform at present, but there are many others, too.
 
 
-## Why use serverless?
+## `Why use serverless?`
 - **No server management:** - There is no need to provision or maintain any servers. There is no software or runtime to install, maintain, or administer.
 
 - **Flexible scaling:** - Your application can be scaled automatically or by adjusting its capacity through toggling the units of consumption (e.g. throughput, memory) rather than units of individual servers.
