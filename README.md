@@ -490,6 +490,6 @@ You want to contribute to this project? [Please follow these recommendations](co
 
 ## `License`
 
-[![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+[![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/licenses/by/2.0/)
 
 
