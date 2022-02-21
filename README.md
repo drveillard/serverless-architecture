@@ -486,7 +486,7 @@ Like many trends in software, there’s no one clear view of what Serverless is.
 
 ## `Contributing`
 
-You want to contribute to this project? [Please follow these recommendations](CONTRIBUTING.md).
+You want to contribute to this project? [Please follow these recommendations](contributing.md).
 
 ## `License`
 
