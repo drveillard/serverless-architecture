@@ -395,7 +395,7 @@ Like many trends in software, there’s no one clear view of what Serverless is.
 * [Level up your serverless game with a GraphQL data-as-a-service layer](https://hasura.io/blog/level-up-your-serverless-game-with-a-graphql-data-as-a-service-layer/)
 * [Serverless White Paper](https://www.unusual.vc/post/unusual-tech-serverless-white-paper) - Informative White Paper on Serverless with deep analysis by Unusual VC.
 
-## Books
+##  `Books`
 
 * [Serverless](https://leanpub.com/serverless) - Patterns of Modern Application Design Using Microservices (Amazon Web Services Edition).
 * [Serverless Single Page Apps](https://pragprog.com/book/brapps/serverless-single-page-apps) - The Pragmatic Bookshelf.
