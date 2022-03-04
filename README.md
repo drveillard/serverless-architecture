@@ -439,7 +439,7 @@ Like many trends in software, there’s no one clear view of what Serverless is.
 * [Kubernets on Windows](https://www.manning.com/books/kubernetes-on-windows) - Guide to successfully running windows and .NET applications on a Kubernetes cluster.
 * [Serverless Architectures on AWS, Second Edition](https://www.manning.com/books/serverless-architectures-on-aws-second-edition) - Book that teaches you how to design, secure and manage serverless backends that can power the most demanding web and mobile apps.
 
-## Courses
+##  `Courses `
 
 * [Serverless JavaScript by Example](https://www.packtpub.com/web-development/serverless-javascript-example-video) - Become dexterous with live demonstrations on serverless web development.
 * [AWS Lambda in Motion](https://www.manning.com/livevideo/aws-lambda-in-motion) - An example-driven tutorial that focuses on helping you understand and tackle the operational challenges with running AWS Lambda in production.
@@ -449,11 +449,11 @@ Like many trends in software, there’s no one clear view of what Serverless is.
 * [AWS in Motion](https://www.manning.com/livevideo/aws-in-motion) - A liveVideo course that guides you through your first steps of deploying a web application on AWS, teaching you the basics of the AWS ecosystem.
 * [Production-Ready Serverless](https://www.manning.com/livevideo/production-ready-serverless) - This liveVideo teaches you how to build applications that take advantage of AWS Lambda and other AWS platform features like API Gateway and Kinesis.
 
-## Workshops
+##  `Workshops `
 
 * [Apache OpenWhisk Workshop](https://www.npmjs.com/package/openwhisk-workshop) - Interactive workshop to learn about building serverless applications with OpenWhisk.
 
-## Newsletters
+##  `Newsletters`
 
 * ~~[Serverless Weekly](http://eepurl.com/cUU8sD)~~ - Everything you need to know about Serverless, week by week.
 * [Serverless Status](https://serverless.email/) - A weekly digest of the latest serverless news and articles.
@@ -463,7 +463,7 @@ Like many trends in software, there’s no one clear view of what Serverless is.
 * [Serverless Transformation](https://www.getrevue.co/profile/serverless-transformation) - Weekly newsletter of a limited set of articles about serverless. Each article is graded on complexity level.
 * [Shipped](https://faun.dev) - A weekly newsletter from FAUN: Hand-curated tutorials, news and stories from the Serverless space.
 
-## AWS re:Invent videos
+##  `AWS re:Invent videos `
 
 * [↑↑↓↓←→←→ BA Lambda Start](https://www.youtube.com/watch?v=iz90fHia-Wk&index=4&list=PLhr1KZpdzukcLUKD2ej8AKYR-nryjGGnF)
 * [Application Lifecycle Management in a Serverless World](https://www.youtube.com/watch?v=8Zd-8GV-1mY&index=11&list=PLhr1KZpdzukcLUKD2ej8AKYR-nryjGGnF)
