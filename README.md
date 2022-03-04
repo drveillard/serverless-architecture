@@ -194,7 +194,7 @@ Like many trends in software, there’s no one clear view of what Serverless is.
 * [Protego](https://www.protego.io) - your apps became serverless. Your security also need to be serverless too.
 * [Nuweba](https://www.nuweba.com) - Unified solution for serverless security, monitoring and performance.
 
-## CI/CD
+##  `CI/CD `
 
 * [seed.run](https://seed.run) - Seed manages pipelines, configures environments, and monitors deployments for Serverless Framework projects.
 * [AWS Lambda Test Runner](https://github.com/automatictester/lambda-test-runner) - Run your unit tests with Maven or SBT directly on AWS Lambda.
@@ -202,12 +202,12 @@ Like many trends in software, there’s no one clear view of what Serverless is.
 * [Serverless Framework Pro](https://www.serverless.com/pro/) - Serverless Framework Pro provides CI/CD, troubleshooting and monitoring for serverless applications
 * [Stackery CICD](https://docs.stackery.io/docs/using-stackery/verification-pipeline/) - Stackery Verification and Deployment Pipelines
 
-## Cost calculators
+##  `Cost calculators `
 
 * [serverlesscalc](http://serverlesscalc.com) - Calculating cost for AWS Lambda, Azure Functions, Google Cloud Functions, and IBM Cloud Functions.
 * [servers.lol](https://servers.lol) - calculator to decide Lambda vs EC2.
 
-## Logging / Monitoring / Performance / Tracing
+##  `Logging / Monitoring / Performance / Tracing `
 
 * [AWS IoT Button logger to git](https://github.com/kachkaev/aws-iot-button-logger-to-git/) - A simple and customisable AWS Lambda function that logs events from IoT devices into a git repository of your choice.
 * [AWS Xray](https://aws.amazon.com/xray/) - Analyze and debug production, distributed applications.
@@ -221,7 +221,7 @@ Like many trends in software, there’s no one clear view of what Serverless is.
 * [SLIC Watch](https://github.com/fourTheorem/slic-watch) - Automatic alarms and dashboards for Lambda, Kinesis and more AWS services.
 * [sls-dev-tools](https://github.com/Theodo-UK/sls-dev-tools) - In terminal developer dashboard for AWS Serverless architectures. *(Does not replace your framework or logging/monitoring, it's used in addition)*
 
-## Authentication and authorization
+##  `Authentication and authorization `
 
 * [Auth0](https://auth0.com) - Single Sign On & Token Based Authentication.
 * [Amazon Cognito](https://aws.amazon.com/cognito/) - Amazon Cognito lets you easily add user sign-up and sign-in to your mobile and web apps.
@@ -231,11 +231,11 @@ Like many trends in software, there’s no one clear view of what Serverless is.
 * [Okta](https://developer.okta.com/) - Provides authentication, authorization, and user management, merged with [Stormpath](https://stormpath.com/) in August 2017.
 * [Serverless Authentication Boilerplate with FaunaDB](https://serverless.com/blog/faunadb-serverless-authentication/) - Single sign on using Amazon API Gateway custom authorizer to provision database access tokens for your Lambda functions. [See TodoMVC integration in this meetup talk video.](https://fauna.com/blog/developing-serverless-authentication-and-persistence)
 
-## IAM
+##  `IAM `
 
 * [PureSec CLI](https://github.com/puresec/serverless-puresec-cli) - Magically creates least privileged IAM roles for you.
 
-## Payments
+##  `Payments `
 
 * ~~[Stripe Webtask](https://github.com/auth0/webtask-scripts/tree/master/stripe)~~ - Accept Stripe payments without a backend using Webtasks.
 * [Stripe Serverless webhook](https://github.com/eahefnawy/serverless-stripe-webhook) - Serverless Module that creates a webhook for Stripe.
@@ -244,13 +244,13 @@ Like many trends in software, there’s no one clear view of what Serverless is.
 * [GCF-Stripe](https://github.com/rldaulton/GCF-Stripe) - serverless use of Stripe over Google Cloud Functions.
 * [Stripe Azure function](https://github.com/sdras/sample-stripe-handler) - An Azure Function that uses the Stripe api for a checkout process in a Vue application
 
-## eCommerce
+##  `eCommerce `
 
 * [Snipcart](https://snipcart.com) - Fully customizable, HTML and JavaScript-based shopping cart for any website.
 * [CommerceJS](http://commercejs.com/) - Full-stack ecommerce api for developers & designers.
 * [EndlessCommerce](https://github.com/endless-commerce/endless) - Open source ecommerce platform based on Serverless framework.
 
-## Content Management Systems
+##  `Content Management Systems `
 
 * [Contentful](https://www.contentful.com/) - A content infrastructure that enables teams to power content in any digital product via a RESTful API.
 * [Cosmicjs](https://cosmicjs.com) - API-first CMS for building content-powered apps in any programming language.
@@ -265,7 +265,7 @@ Like many trends in software, there’s no one clear view of what Serverless is.
 * [Stiva](https://github.com/anddimario/stiva) - Stiva is a headless CMS for multisite and dynamic multicontent, based on lambda, dynamodb and s3.
 * [Forestry](https://forestry.io/) - Git-backed CMS for Static Site Generators like Gatsby, Gridsome, Eleventy, Hugo, VuePress, Jekyll, etc.
 
-## Forms
+##  `Forms `
 
 * [Airform.io](https://airform.io) - Functional HTML forms for Front-End Developers.
 * [Form.io](https://form.io) - JSON Powered Form and Data Management Platform for Serverless applications.
